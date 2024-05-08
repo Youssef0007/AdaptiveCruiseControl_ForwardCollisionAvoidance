@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:93:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:107:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:154:6:StartDefaultTask	1
+../Core/Src/freertos.c:172:6:T1_FCW_FCA_BA	1
+../Core/Src/freertos.c:204:6:T3_MotionDrive	6
+../Core/Src/freertos.c:249:6:HAL_UART_RxCpltCallback	2
